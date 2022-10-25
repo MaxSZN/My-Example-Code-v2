@@ -1,0 +1,38 @@
+first to make a html file you will need to start with
+<!DOCTYPE html>
+heres the code so far it took me around 3 minutes
+
+<!DOCTYPE html>
+<html>
+    <head>
+   <meta charset="utf-8">
+   <meta name-"viewpoint" content="width=device-width, initial-scale1">
+   <title>Welcome People!</title>
+   <body>
+   
+   <h1>Welcome</h1>
+   
+   <p>DoctypeHTMLcodingexperiencetrynnewstuff!</p>
+   
+   
+   
+   <ul>
+     <li>apples</li>
+     <ul>
+     <li>grannysmith</li>
+     
+     to make a list you will need to do 1 thing
+     
+     heres the code
+     <ul>
+      <li>apples</li>
+      
+      then your done if you want to make a list inside of a list heres how to do it
+      
+      <ul>
+         <li>apples</li>
+         <ul>
+         <li>grannysmith</li>
+         
+         
+         Then your done! Hope it helped.
